@@ -111,7 +111,7 @@ RE: Botium Toys
 
 Dear Colleagues,
 
-Please see below all documentation in relation to the Internal IT Audit performed for Botium Toys. You will find notes peraining to the internal audit, scope, goals, critical findings, summary and a summary of all recommendations.
+Please see below all documentation in relation to the Internal IT Audit performed for Botium Toys. You will find notes pertaining to the internal audit, scope, goals, critical findings, summary and a summary of all recommendations.
 
 **Scope:**
 In Scope:
@@ -122,7 +122,7 @@ In Scope:
 - (SIEM) tools; event management and security information
 - Accounting
 - 
-Sytems currenlty in place will be evaluated for: 
+Systems currently in place will be evaluated for: 
 Current user permissions, existing procedures and protocols
  - Ensuring that permissions, controls, procedures and protocols exist and are meeting compliance requirements.
    
@@ -162,4 +162,4 @@ Physical controls
 - Surveillance signage
 
 # Conclusion  <a name="conclusion">
-In conclusion though there are certain systems already in place, these are the areas that should be addresseed immediately as Botium Toys accepts online payments and is expanding offerings. Therfore these critical findings will put you in compliance with PCI and GDPR ultimately stregthening your overall security posture at scale. 
+In conclusion though there are certain systems already in place, these are the areas that should be addressed immediately as Botium Toys accepts online payments and is expanding offerings. Therefore these critical findings will put you in compliance with PCI and GDPR ultimately strengthening your overall security posture at scale. 
